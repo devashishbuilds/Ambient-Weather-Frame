@@ -155,4 +155,4 @@ Ambient-Weather-Frame/
 
 ## License
 
-Choose a license appropriate for your intended use before publishing the repository (for example MIT for permissive reuse).
+MIT License
